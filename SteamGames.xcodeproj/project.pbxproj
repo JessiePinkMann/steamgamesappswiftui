@@ -11,6 +11,7 @@
 		370B5F4327AD44EF00CEB80D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370B5F4227AD44EF00CEB80D /* ContentView.swift */; };
 		370B5F4527AD44F100CEB80D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370B5F4427AD44F100CEB80D /* Assets.xcassets */; };
 		370B5F4827AD44F100CEB80D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370B5F4727AD44F100CEB80D /* Preview Assets.xcassets */; };
+		370B5F4F27AD453000CEB80D /* Games.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370B5F4E27AD453000CEB80D /* Games.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		370B5F4227AD44EF00CEB80D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		370B5F4427AD44F100CEB80D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		370B5F4727AD44F100CEB80D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		370B5F4E27AD453000CEB80D /* Games.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Games.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				370B5F4027AD44EF00CEB80D /* SteamGamesApp.swift */,
 				370B5F4227AD44EF00CEB80D /* ContentView.swift */,
+				370B5F4E27AD453000CEB80D /* Games.swift */,
 				370B5F4427AD44F100CEB80D /* Assets.xcassets */,
 				370B5F4627AD44F100CEB80D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				370B5F4F27AD453000CEB80D /* Games.swift in Sources */,
 				370B5F4327AD44EF00CEB80D /* ContentView.swift in Sources */,
 				370B5F4127AD44EF00CEB80D /* SteamGamesApp.swift in Sources */,
 			);
